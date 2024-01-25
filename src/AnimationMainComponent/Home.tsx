@@ -1,4 +1,4 @@
-import UseAnimateHook from "../FramerMotion/UseanimateHook";
+import AnimationPresence from "../FramerMotion/AnimationPresence";
 
 const Home = () => {
   return (
@@ -8,7 +8,9 @@ const Home = () => {
       {/* <UseAnimationControles></UseAnimationControles> */}
       {/* <UseCycle></UseCycle> */}
       {/* <UseInView></UseInView> */}
-      <UseAnimateHook></UseAnimateHook>
+      {/* <UseAnimateHook></UseAnimateHook> */}
+      {/* <UseScroll></UseScroll> */}
+      <AnimationPresence></AnimationPresence>
     </div>
   );
 };

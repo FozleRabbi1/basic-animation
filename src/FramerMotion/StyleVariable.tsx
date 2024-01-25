@@ -1,7 +1,7 @@
 export const mainDivStyle =
   "w-full  flex justify-center items-center flex-col ";
 export const motionStyle =
-  "rounded-md size-[500px] border border-red-400 flex gap-5 justify-center items-center flex-col ";
+  " rounded-md size-[500px] border border-red-400 flex gap-5 justify-center items-center flex-col ";
 export const motionParentStyle =
   "  flex justify-center items-center bg-red-500 rounded-md size-64";
 
